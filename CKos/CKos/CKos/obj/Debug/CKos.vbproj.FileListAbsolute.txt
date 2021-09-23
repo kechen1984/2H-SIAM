@@ -1,0 +1,36 @@
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\bin\Debug\CKos.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\bin\Debug\CKos.exe
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\bin\Debug\CKos.pdb
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\bin\Debug\CKos.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.Form1.resources
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.Resources.resources
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.exe
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.xml
+c:\users\administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\CKos\CKos\obj\Debug\CKos.Form2.resources
+C:\Users\Administrator\Desktop\CKos\CKos\bin\Debug\CKos.exe.config
+C:\Users\Administrator\Desktop\CKos\CKos\bin\Debug\CKos.exe
+C:\Users\Administrator\Desktop\CKos\CKos\bin\Debug\CKos.pdb
+C:\Users\Administrator\Desktop\CKos\CKos\bin\Debug\CKos.xml
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.Form1.resources
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.Form2.resources
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.Resources.resources
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.exe
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.xml
+C:\Users\Administrator\Desktop\CKos\CKos\obj\Debug\CKos.pdb
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\bin\Debug\CKos.exe.config
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\bin\Debug\CKos.exe
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\bin\Debug\CKos.pdb
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\bin\Debug\CKos.xml
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.Form1.resources
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.Form2.resources
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.Resources.resources
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.exe
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.xml
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.pdb
