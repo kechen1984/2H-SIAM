@@ -34,3 +34,4 @@ C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.vbproj.CoreCo
 C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.exe
 C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.xml
 C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.pdb
+C:\Users\Administrator\Desktop\R18042_150\CKos\CKos\obj\Debug\CKos.vbproj.AssemblyReference.cache

@@ -41,15 +41,6 @@
                 End If
             End If
         Next
-        Dim content As String = y
-        count = content.Length
-        If content.IndexOf(".") <> -1 Then
-            count -= 1
-        End If
-        Do While count < total
-            content += "0"
-            count += 1
-        Loop
-        Return content
+        Return y
     End Function
 End Module
