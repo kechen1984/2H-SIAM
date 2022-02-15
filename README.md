@@ -1,3 +1,7 @@
+2H-SIAM pipeline and algorithm 2H-SIAM(1.0)
+Stable Isotope Assisted Metabolomics (SIAM) enables global tracking of isotopic labels in non-targeted metabolomics in living organisms. However, its application in tracking transformation products (TPs, as metabolites of contaminants) of environmental contaminants is still a challenge due to limits in methodology, unmatured algorithms, and the high cost of 13C-labeled contaminants. Therefore, we developed a 2H-SIAM pipeline coupled with a highly flexible algorithm 2H-SIAM(V1.0) (https://github.com/kechen1984/2H-SIAM), facilitating tracking TPs of contaminants in the environment matrix. A detailed discussion illustrates the theory, behavior, and prospect of 2H-SIAM. We demonstrate that the proposed 2H-SIAM pipeline has unique advantages over 13C-SIAM, for example, cost-effective 2H-labeled contaminants, easy synthesis of 2H-labeled emerging contaminants, and providing more structure information. A pyrene soil degradation study further confirmed its high performance. It efficiently discarded 99% noise signals and extracted 52 features from the non-targeted High-Resolution Mass Spectrometry (HRMS) data. Among them, 13 features were annotated as TPs of pyrene with identification confidence from Level 2a to Level 5, and 5 TPs were reported for the first time. In conclusion, the proposed 2H-SIAM pipeline is powerful in tracking potential TPs of environmental contaminants with unique advantages.
+
+
 ![Cover art](https://user-images.githubusercontent.com/83108778/153426693-499eca9c-e810-4d7e-b126-60c6d747415e.jpg)
 
 
