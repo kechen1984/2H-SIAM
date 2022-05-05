@@ -10,7 +10,10 @@ Safari do not works well with  Mendeley data, please use Chrome or Edge to open 
 
 Any question, please do not heisitate to contact with Dr. KeChen via kechen@mail.scuec.edu.cn, or mr.k.chen@qq.com.
 
-![Cover art](https://user-images.githubusercontent.com/83108778/153426693-499eca9c-e810-4d7e-b126-60c6d747415e.jpg)
+
+https://pubs.acs.org/doi/10.1021/acs.analchem.2c00500
 
 
+
+<img width="1213" alt="AC" src="https://user-images.githubusercontent.com/83108778/166944242-fc8a87e3-ce00-4a65-a797-17d177608283.png">
 
